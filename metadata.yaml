@@ -1,0 +1,33 @@
+_repo: Elbesz-l-sek_43443
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Csiky, Gergely
+    alias: Csiki, Gergely
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '32843'
+    url: http://www.gutenberg.org/2009/agents/32843
+    wikipedia: http://hu.wikipedia.org/wiki/Csiky_Gergely
+description: ''
+gutenberg_issued: '2013-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43443'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction'
+- !lcc 'PH'
+- !lcsh 'Short stories, Hungarian'
+tableOfContents: Gombos úr válópöre -- A végrehajtó -- A félelmes szomszéd -- A 233-dik
+  szám -- A kis Viola -- Hervadt koszorúk -- Maláta úr karácsonyfája -- Vasúti történetek
+  -- A betegápoló -- Zavaros történet -- Az új lakó titka -- Az aranyhaj -- A «báró
+  és bankár» Palotán -- Kisvárosi pletyka.
+title: Elbeszélések
+url: http://www.gutenberg.org/ebooks/43443
